@@ -13,19 +13,27 @@ Oden Institute for Computational Engineering and Sciences / Jackson School of Ge
 <p align="center">
 <img src="./jpl.jpeg" height="370">
 </p>
-Figure: Initial uncropped JPG image made in viridis colormap.
+Figure 1: Initial uncropped JPG image made in viridis colormap.
 
 2. Read the cropped image (Figure 2)
 
 <p align="center">
-<img src="./jpl.jpeg" height="370">
+<img src="./jpl_cropped.jpeg" height="370">
 </p>
-Figure: Cropped image made in viridis colormap.
+Figure 2: Cropped image made in viridis colormap.
 
 
 3. In the code, mention the input colormap (needs to be in Python).
 
 4. Make the map between the input and output colormap.
+
+5. Finally, the input image RGB values can be multiplied with the coefficients to get the output image (Figure 3).
+
+
+<p align="center">
+<img src="./output.png" height="370">
+</p>
+Figure 3: Output image in Reds.
 
 ### Dependences
 
