@@ -10,7 +10,8 @@ This short python script reads/digitizes an image (JPG/PNG) made with a specific
 
 <p align="center">
 <img src="./jpl.jpeg" height="370"> 
-  
+  </p>
+  <p align="center">
   Figure 1: Initial uncropped JPG image made in viridis colormap.
 </p>
 
@@ -19,7 +20,8 @@ This short python script reads/digitizes an image (JPG/PNG) made with a specific
 
 <p align="center">
 <img src="./jpl_croppped.jpeg" height="370">
-  
+  </p>
+  <p align="center">
   Figure 2: Cropped image made in viridis colormap.
 </p>
 
@@ -34,7 +36,8 @@ This short python script reads/digitizes an image (JPG/PNG) made with a specific
 
 <p align="center">
 <img src="./output.png" height="370">
-  
+  </p>
+  <p align="center">
   Figure 3: Output temperature contour plot with Reds colormap.
 </p>
 
