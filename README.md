@@ -18,7 +18,7 @@ Figure 1: Initial uncropped JPG image made in viridis colormap.
 2. Read the cropped image (Figure 2)
 
 <p align="center">
-<img src="./jpl_cropped.jpeg" height="370">
+<img src="./jpl_croppped.jpeg" height="370">
 </p>
 Figure 2: Cropped image made in viridis colormap.
 
