@@ -1,9 +1,7 @@
 # python-colormap-image-digitizer
 
-This short python script reads an image (JPG/PNG) made with a specific colormap in Python and converts it to another colormap as well as extracts out values.
+This short python script reads/digitizes an image (JPG/PNG) made with a specific colormap in Python and converts it to another colormap as well as extracts out values.
 
-## Affiliation
-Oden Institute for Computational Engineering and Sciences / Jackson School of Geosciences / University of Texas Institute for Geophysics / NASA Jet Propulsion Lab
 
 ## Getting Started
 
