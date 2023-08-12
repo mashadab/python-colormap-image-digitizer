@@ -12,15 +12,17 @@ Oden Institute for Computational Engineering and Sciences / Jackson School of Ge
 
 <p align="center">
 <img src="./jpl.jpeg" height="370">
+  Figure 1: Initial uncropped JPG image made in viridis colormap.
 </p>
-Figure 1: Initial uncropped JPG image made in viridis colormap.
+
 
 2. Read the cropped image (Figure 2)
 
 <p align="center">
 <img src="./jpl_croppped.jpeg" height="370">
+  Figure 2: Cropped image made in viridis colormap.
 </p>
-Figure 2: Cropped image made in viridis colormap.
+
 
 
 3. In the code, mention the input colormap (needs to be in Python).
@@ -32,8 +34,8 @@ Figure 2: Cropped image made in viridis colormap.
 
 <p align="center">
 <img src="./output.png" height="370">
+  Figure 3: Output temperature contour plot with Reds colormap.
 </p>
-Figure 3: Output image in Reds.
 
 ### Dependences
 
